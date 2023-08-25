@@ -40,6 +40,7 @@ section>div{
     /*margin-bottom: 300px;*/
     position: relative;
     margin: 237px 0;
+    border-radius: 100%;
 }
 
 section>div:first-child{

@@ -14,7 +14,7 @@ body>div>div{
 }
 body>div>div:first-child{
     background: red;
-    grid-column: 1/4;
+    /*grid-column: 1/4;*/
 }
 body>div>div:nth-child(2){
     background: blue;
@@ -40,7 +40,6 @@ body>div>div:nth-child(8){
 body>div>div:nth-child(9){
     background: black;
 }
-/*
 body>div>div:nth-child(10){
     background: saddlebrown;
 }
@@ -49,4 +48,4 @@ body>div>div:nth-child(11){
 }
 body>div>div:nth-child(12){
     background: darkgreen;
-}*/
+}
