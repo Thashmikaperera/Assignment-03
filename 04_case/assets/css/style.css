@@ -1,7 +1,7 @@
-/*section{
+section{
     position: sticky;
     top: 0;
-}*/
+}
 section>div{
     position: relative;
 }
